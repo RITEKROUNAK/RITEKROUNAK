@@ -28,10 +28,9 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true" />
 <br />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true" />
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=RITEKROUNAK.RITEKROUNAK)
