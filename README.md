@@ -21,7 +21,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/64047505/104909158-7873c780-59ad-11eb-9463-d0eb3be927f3.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/64047505/104909151-77429a80-59ad-11eb-9a6c-abbb4eeca7c3.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/64047505/104909152-77db3100-59ad-11eb-9b6b-8ca9d6b36e89.png" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/64047505/104912573-72ccb080-59b2-11eb-9beb-0776e7b32353.png" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/64047505/104909161-79a4f480-59ad-11eb-9b10-5c827da6235e.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/64047505/104909160-790c5e00-59ad-11eb-91e9-783a2312e6c1.png" />
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/64047505/104909147-76116d80-59ad-11eb-9383-b4bc95003290.png" />
