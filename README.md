@@ -1,4 +1,4 @@
-### Hi there, I'm Ritek ! (https://www.ritekrounak.ml/) 👋
+### Hi there, I'm [Ritek !](https://www.ritekrounak.ml/) 👋
 
 ## Hi, I'm RITEK ROUNAK , a passionate Full Stack web developer from India.
 
@@ -8,9 +8,11 @@
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
 
-!(https://visitor-badge.glitch.me/badge?page_id=RITEKROUNAK.RITEKROUNAK)
+<br />
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/64047505/104909166-7a3d8b00-59ad-11eb-815d-6cf978e7a980.gif" width="500" height="320" />
+
+<br />
 
 ### Languages and Tools:
 
@@ -23,3 +25,13 @@
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/64047505/104909161-79a4f480-59ad-11eb-9b10-5c827da6235e.png" />
 <img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/64047505/104909160-790c5e00-59ad-11eb-91e9-783a2312e6c1.png" />
 <img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/64047505/104909147-76116d80-59ad-11eb-9383-b4bc95003290.png" />
+
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&layout=compact&theme=blue-green" />
+<br />
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&layout=compact&theme=blue-green" />
+<br/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=RITEKROUNAK.RITEKROUNAK)
