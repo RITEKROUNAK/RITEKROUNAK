@@ -28,7 +28,7 @@
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true&count_private=true" />
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true" />
 <br/>
