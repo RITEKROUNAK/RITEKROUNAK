@@ -1,8 +1,9 @@
-### Hi there, I'm [Ritek !](https://www.ritekrounak.ml/) 👋
+<h1 align="center">Hi there 👋 , I'm <a href="https://www.ritekrounak.xyz/">Ritek</a> !</h1>
+<h3 align="center">A Passionate Full stack developer from India</h3>
 
-## Hi, I'm RITEK ROUNAK , a passionate Full Stack web developer from India.
+<br />
 
-- 🔭 I’m currently working on Coding Website Templates
+- 🔭 I’m currently working on <a href="https://voicifer.co">Voicifer</a>
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2021 Goals: Contribute to Open Source projects
