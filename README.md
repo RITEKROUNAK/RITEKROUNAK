@@ -15,23 +15,22 @@
 
 <br />
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools :</h3>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+ <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/64047505/104909165-79a4f480-59ad-11eb-893e-c10a69bb66e0.png" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/64047505/104909156-7873c780-59ad-11eb-93f2-7d0d3694bc78.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/64047505/104909158-7873c780-59ad-11eb-9463-d0eb3be927f3.png" />
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/64047505/104909151-77429a80-59ad-11eb-9a6c-abbb4eeca7c3.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/64047505/104912573-72ccb080-59b2-11eb-9beb-0776e7b32353.png" />
-<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/64047505/104909161-79a4f480-59ad-11eb-9b10-5c827da6235e.png" />
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/64047505/104909160-790c5e00-59ad-11eb-91e9-783a2312e6c1.png" />
-<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/64047505/104909147-76116d80-59ad-11eb-9383-b4bc95003290.png" />
-
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true&count_private=true" />
-<br />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&layout=compact&theme=blue-green&hide_border=true" />
+<br /><br /><br />
+<h4>Some Stats :<h4>
+<hr>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&count_private=true" />
 <br/>
-
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true" />
+<br/>
+<br/>
+  
 ![](https://visitor-badge.glitch.me/badge?page_id=RITEKROUNAK.RITEKROUNAK)
