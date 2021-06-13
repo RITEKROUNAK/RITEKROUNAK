@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 I’m currently working on <a href="https://voicifer.co">Voicifer</a>
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to draw and play football
