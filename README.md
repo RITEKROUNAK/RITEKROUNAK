@@ -26,11 +26,16 @@
 <br /><br /><br />
 <h4>Some Stats :<h4>
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&count_private=true" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true&count_private=true" />
+</p>
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true" />
+</p>
 <br/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITEKROUNAK&show_icons=true&locale=en&layout=compact&theme=blue-green&hide_border=true" />
-<br/>
-<br/>
+
+
   
 ![](https://visitor-badge.glitch.me/badge?page_id=RITEKROUNAK.RITEKROUNAK)
