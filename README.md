@@ -35,5 +35,9 @@
 </p>
 <br/>
 <br/>
-  
+<h4>Watch my contribution graph get eaten by the snake 🐍</h4>
+<hr>
+ 
+![](https://github.com/RITEKROUNAK/RITEKROUNAK/raw/output/github-contribution-grid-snake.svg)
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=RITEKROUNAK.RITEKROUNAK)
