@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on <a href="https://voicifer.co">Voicifer</a>
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other web developers
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 👯 I’m looking to collaborate with other Developers
+- 🥅 2021 Goals: Contribute to Open Source Projects
 - ⚡ Fun fact: I love to draw and play football
 
 <br />
