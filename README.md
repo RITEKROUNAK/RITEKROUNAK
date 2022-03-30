@@ -27,7 +27,8 @@
 </p>
 <br/>
 <br/>
-![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
   
 <h4>Watch my contribution graph get eaten by the snake 🐍</h4>
 <hr>
