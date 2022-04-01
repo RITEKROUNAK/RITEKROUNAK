@@ -20,5 +20,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m ":chart_with_upwards_trend: Updated 3D Contribution"
           git push
