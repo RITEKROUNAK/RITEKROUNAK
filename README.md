@@ -4,7 +4,7 @@
 <br />
 
 - 🔭 I’m currently working at <a href="https://harness.io">Harness</a>
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning GoLang.
 - 👯 I’m looking to collaborate with other Open Source Developers.
 - 🥅 2023 Goals: Contribute to Open Source Projects.
 - ⚡ Fun fact: I love to draw and play football.
