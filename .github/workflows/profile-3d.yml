@@ -17,8 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name RITEKROUNAK
+          git config user.email ritekrounak1@gmail.com
           git add .
           git commit -m ":chart_with_upwards_trend: Updated 3D Contribution"
           git push
